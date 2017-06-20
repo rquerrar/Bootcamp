@@ -1,1 +1,6 @@
-im learning git
+Python Learning Plan
+
+1. Array indexing in library'
+2. Get better at plotting with matplotlib
+3. look in to panda library
+
