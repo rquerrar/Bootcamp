@@ -4,3 +4,5 @@ Python Learning Plan
 2. Get better at plotting with matplotlib
 3. look in to panda library
 4. import excel spreadsheets
+5. practice signal processing in numpy
+6. generators and co-routines
